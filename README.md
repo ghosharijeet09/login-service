@@ -1,4 +1,4 @@
-# Login Service
+# Login Microservice
 
 Login-Service is a Node.js microservice responsible for managing user authentication and information in a distributed application architecture. It provides RESTful APIs for creating, retrieving, updating, and deleting user data. Additionally, it facilitates authentication and authorization mechanisms and interacts with other services (e.g., order-service, payment-service, notification-service) via HTTP and RabbitMQ for inter-service communication. The service uses MongoDB Atlas for cloud-based database management.
 
